@@ -15,7 +15,7 @@ Welcome to the Football Game Video Analysis repository! This project leverages b
 - sklearn
 
 
-## example video output
+## Example Video Output
 
 https://github.com/DanielGoldenberg9/football_video_analysis/assets/168211490/ebbab9fe-21b2-4328-aefa-1c25151ce6cf
 
